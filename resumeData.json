@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Jorge Sepulveda",
+    "occupation": "Full Stack JavaScript Developer",
+    "image": "profilepic.jpg",
+    "bio": "My name is Jorge Sepulveda, I am Full Stack Developer who currently working at Nicklaus Children's Hospital. I have a passion for technology and coding.",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "jsepulvewd@gmail.com",
+    "phone": "786 329 1862",
+    "address": {
+      "street": "18641 Belview Dr.",
+      "city": "Miami",
+      "state": "FL",
+      "zip": "33157"
+    },
+    "website": "http://jsepulveda.com",
+    "resumedownload": "https://docs.google.com/document/d/e/2PACX-1vTWSaF27NVUcoESvznkZ9vngUm0sz91eM1NqXDEkCWhDK61B899Ugsu3hGzX4QTgAsnGZWP-h5q11L9/pub",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/jorge.sepulveda.1614",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/jrgsepulveda/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/jrgsepulveda",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Always looking to imporve my skill set.",
+    "education": [
+      {
+        "school": "University of Miami",
+        "degree": "Certificate Full Stack Web Development",
+        "graduated": "December 2020",
+        "description": "GPA 4.0"
+      }
+    ],
+    "work": [
+      {
+        "company": "Nicklaus Children's Hospital",
+        "title": "Digital Media Specialist",
+        "years": "Jun 2018 - Present",
+        "description": "Create and develop digital media for the hospital website. Which include website mock ups, digital assests, and clean up JavaScript, HTML, and CSS."
+      },
+      {
+        "company": "Freelance",
+        "title": "Digital Media Specialist",
+        "years": "Feb 2010 - Jun 2018",
+        "description": "Create and develop digital media based on client request."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "75%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "MondoDB",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "95%"
+      },
+      {
+        "name": "JQuery",
+        "level": "80%"
+      },
+      {
+        "name": "Adobe Creative Suit",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Nicklaus Children's Hospital",
+        "category": "I developed the layout and user interface using Abode InDesign",
+        "image": "NicklausChildrens.png",
+        "url": "https://www.nicklauschildrens.org/home"
+      },
+      {
+        "title": "Weather Dashboard",
+        "category": "This web application was develop using the following technologies: HTML, CSS, JavaScript, AJAX, and API",
+        "image": "WeatherDashboard.png",
+        "url": "https://jrgsepulveda.github.io/WeatherDashboard/"
+      },
+      {
+        "title": "GumShoe",
+        "category": "This web application was develop using the following technologies: NodeJS, MySQL, JavaScript, PASSPORT, and API",
+        "image": "gumshoe.png",
+        "url": "https://evening-badlands-50066.herokuapp.com/"
+      },
+      {
+        "title": "JOber",
+        "category": "This web application was develop using the following technologies: HTML, CSS, JavaScript, AJAX, and API",
+        "image": "JOBer.png",
+        "url": "https://jrgsepulveda.github.io/JOber/"
+      },
+      {
+        "title": "GoogleBooks",
+        "category": "This web application was develop using the following technologies: ReactJS, NoSQL, JavaScript, and API",
+        "image": "GoogleBooks.png",
+        "url": "https://pure-meadow-15358.herokuapp.com/"
+      },
+      {
+        "title": "BudgetTracker",
+        "category": "This web application was develop using the following technologies: ReactJS, NoSQL, JavaScript, and API",
+        "image": "BudgetTracker.png",
+        "url": "https://peaceful-badlands-97618.herokuapp.com/"
+      }
+    ]
+  }
+}
