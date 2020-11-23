@@ -3,7 +3,7 @@
     "name": "Jorge Sepulveda",
     "occupation": "Full Stack JavaScript Developer",
     "image": "profilepic.jpg",
-    "bio": "My name is Jorge Sepulveda, I am Full Stack Developer who currently working at Nicklaus Children's Hospital. I have a passion for technology and coding.",
+    "bio": "My name is Jorge Sepulveda, I am Full Stack Developer who is currently working at Nicklaus Children's Hospital. I have a passion for technology and coding.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "jsepulvewd@gmail.com",
     "phone": "786 329 1862",
@@ -34,7 +34,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Always looking to imporve my skill set.",
+    "skillmessage": "Always looking to improve my skill set.",
     "education": [
       {
         "school": "University of Miami",
@@ -48,7 +48,7 @@
         "company": "Nicklaus Children's Hospital",
         "title": "Digital Media Specialist",
         "years": "Jun 2018 - Present",
-        "description": "Create and develop digital media for the hospital website. Which include website mock ups, digital assests, and clean up JavaScript, HTML, and CSS."
+        "description": "Create and develop digital media for the hospital website. Which include website mock ups, digital  assets, and clean up JavaScript, HTML, and CSS."
       },
       {
         "company": "Freelance",
