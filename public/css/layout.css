@@ -111,6 +111,7 @@ header .scrolldown a {
    line-height: 42px;
    color: #fff;
    border-radius: 100%;
+   color: #84a9ac;
 
    -webkit-transition: all .3s ease-in-out;
    -moz-transition: all .3s ease-in-out;
@@ -151,6 +152,7 @@ ul#nav {
 
    /* center align the menu */
    text-align: center;
+   background-color: #84a9ac
 }
 ul#nav li {
    position: relative;
