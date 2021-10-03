@@ -34,7 +34,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Always looking to improve my skill set.",
+    "skillmessage": "Love learning new technologies.",
     "education": [
       {
         "school": "University of Miami",
@@ -45,7 +45,13 @@
     ],
     "work": [
       {
-        "company": "Nicklaus Children's Hospital",
+        "company": "OneUnited Bank",
+        "title": "Web Specialist",
+        "years": "Mar 2021 - Present",
+        "description": "Develop custom mobile-friendly Wordpress templates, themes, and plugins to align with site design and branding for OneUnited Bank. Develop and deploy Salesforce page based on companies needs."
+      },
+      {
+       "company": "Nicklaus Children's Hospital",
         "title": "Digital Media Specialist",
         "years": "Jun 2018 - Present",
         "description": "Create and develop digital media for the hospital website. Which include website mock ups, digital  assets, and clean up JavaScript, HTML, and CSS."
@@ -85,11 +91,35 @@
       {
         "name": "Adobe Creative Suit",
         "level": "90%"
-      }
+     },
+     {
+      "name": "Salesforce",
+      "level": "60%"
+    },
+    {
+      "name": "PHP",
+      "level": "50%"
+    },
+    {
+      "name": "SQL",
+      "level": "75%"
+    }
     ]
   },
-  "portfolio": {
-    "projects": [
+  "portflio": {
+    "rojects": [
+      {
+        "title": "OneUnited Bank",
+        "category": "This web application was develop using the following technologies: Wordpress, HTML, CSS, JavaScript, AJAX, and API",
+        "image": "oneunitedbank.png",
+       "url": "https://www.oneunited.com/"
+      },
+      {
+        "title": "OneUnited Bank Salesforce",
+        "category": "This web application was develop using the following technologies: Salesforce, Apex, HTML, CSS, JavaScript, AJAX, and API",
+        "image": "oneunitedbanksalesforce.png",
+        "url": "https://community.oneunited.com/advocate/s/support"
+      },
       {
         "title": "Nicklaus Children's Hospital",
         "category": "I developed the layout and user interface using Abode InDesign",
@@ -107,12 +137,6 @@
         "category": "This web application was develop using the following technologies: NodeJS, MySQL, JavaScript, PASSPORT, and API",
         "image": "gumshoe.png",
         "url": "https://evening-badlands-50066.herokuapp.com/"
-      },
-      {
-        "title": "JOber",
-        "category": "This web application was develop using the following technologies: HTML, CSS, JavaScript, AJAX, and API",
-        "image": "JOBer.png",
-        "url": "https://jrgsepulveda.github.io/JOber/"
       },
       {
         "title": "GoogleBooks",

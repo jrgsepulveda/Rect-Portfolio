@@ -3,7 +3,7 @@
     "name": "Jorge Sepulveda",
     "occupation": "Full Stack JavaScript Developer",
     "image": "profilepic.jpg",
-    "bio": "My name is Jorge Sepulveda, I am Full Stack JavaScript Developer who is currently working at Nicklaus Children's Hospital. I have a passion for technology and coding.",
+    "bio": "My name is Jorge Sepulveda, I am Full Stack JavaScript Developer who is currently working at OneUnited Bank. I have a passion for technology and coding.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "jsepulvewd@gmail.com",
     "phone": "786 329 1862",
@@ -45,9 +45,15 @@
     ],
     "work": [
       {
+        "company": "OneUnited Bank",
+        "title": "Web Specialist",
+        "years": "Mar 2021 - Present",
+        "description": "Develop custom mobile-friendly Wordpress templates, themes, and plugins to align with site design and branding for OneUnited Bank. Also build Salesforce pages based on company demands."
+      },
+      {
         "company": "Nicklaus Children's Hospital",
         "title": "Digital Media Specialist",
-        "years": "Jun 2018 - Present",
+        "years": "Jun 2018 - Mar 2021",
         "description": "Create and develop digital media for the hospital website. Which include website mock ups, digital  assets, and clean up JavaScript, HTML, and CSS."
       },
       {
@@ -85,11 +91,35 @@
       {
         "name": "Adobe Creative Suit",
         "level": "90%"
+      },
+      {
+        "name": "Salesforce",
+        "level": "60%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
       }
     ]
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "OneUnited Bank",
+        "category": "This web application was develop using the following technologies: Wordpress, HTML, CSS, JavaScript, AJAX, and API",
+        "image": "oneunitebank.png",
+        "url": "https://www.oneunited.com/"
+      },
+      {
+        "title": "OneUnited Bank Salesforce",
+        "category": "This web application was develop using the following technologies: Salesforce, HTML, CSS, JavaScript, AJAX, and API",
+        "image": "oneunitebanksalesforce.png",
+        "url": "https://community.oneunited.com/advocate/s/support"
+      },
       {
         "title": "Nicklaus Children's Hospital",
         "category": "I developed the layout and user interface using Abode InDesign",
