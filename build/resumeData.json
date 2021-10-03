@@ -3,7 +3,7 @@
     "name": "Jorge Sepulveda",
     "occupation": "Full Stack JavaScript Developer",
     "image": "profilepic.jpg",
-    "bio": "My name is Jorge Sepulveda, I am Full Stack Developer who is currently working at Nicklaus Children's Hospital. I have a passion for technology and coding.",
+    "bio": "My name is Jorge Sepulveda, I am Full Stack JavaScript Developer who is currently working at OneUnited Bank. I have a passion for technology and coding.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "jsepulvewd@gmail.com",
     "phone": "786 329 1862",
@@ -34,7 +34,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Love learning new technologies.",
+    "skillmessage": "Always looking to improve my skill set.",
     "education": [
       {
         "school": "University of Miami",
@@ -48,12 +48,12 @@
         "company": "OneUnited Bank",
         "title": "Web Specialist",
         "years": "Mar 2021 - Present",
-        "description": "Develop custom mobile-friendly Wordpress templates, themes, and plugins to align with site design and branding for OneUnited Bank. Develop and deploy Salesforce page based on companies needs."
+        "description": "Develop custom mobile-friendly Wordpress templates, themes, and plugins to align with site design and branding for OneUnited Bank. Also build Salesforce pages based on company demands."
       },
       {
-       "company": "Nicklaus Children's Hospital",
+        "company": "Nicklaus Children's Hospital",
         "title": "Digital Media Specialist",
-        "years": "Jun 2018 - Present",
+        "years": "Jun 2018 - Mar 2021",
         "description": "Create and develop digital media for the hospital website. Which include website mock ups, digital  assets, and clean up JavaScript, HTML, and CSS."
       },
       {
@@ -91,33 +91,33 @@
       {
         "name": "Adobe Creative Suit",
         "level": "90%"
-     },
-     {
-      "name": "Salesforce",
-      "level": "60%"
-    },
-    {
-      "name": "PHP",
-      "level": "50%"
-    },
-    {
-      "name": "SQL",
-      "level": "75%"
-    }
+      },
+      {
+        "name": "Salesforce",
+        "level": "60%"
+      },
+      {
+        "name": "PHP",
+        "level": "60%"
+      },
+      {
+        "name": "SQL",
+        "level": "75%"
+      }
     ]
   },
-  "portflio": {
-    "rojects": [
+  "portfolio": {
+    "projects": [
       {
         "title": "OneUnited Bank",
         "category": "This web application was develop using the following technologies: Wordpress, HTML, CSS, JavaScript, AJAX, and API",
-        "image": "oneunitedbank.png",
-       "url": "https://www.oneunited.com/"
+        "image": "oneunitebank.png",
+        "url": "https://www.oneunited.com/"
       },
       {
         "title": "OneUnited Bank Salesforce",
-        "category": "This web application was develop using the following technologies: Salesforce, Apex, HTML, CSS, JavaScript, AJAX, and API",
-        "image": "oneunitedbanksalesforce.png",
+        "category": "This web application was develop using the following technologies: Salesforce, HTML, CSS, JavaScript, AJAX, and API",
+        "image": "oneunitebanksalesforce.png",
         "url": "https://community.oneunited.com/advocate/s/support"
       },
       {
@@ -137,6 +137,12 @@
         "category": "This web application was develop using the following technologies: NodeJS, MySQL, JavaScript, PASSPORT, and API",
         "image": "gumshoe.png",
         "url": "https://evening-badlands-50066.herokuapp.com/"
+      },
+      {
+        "title": "JOber",
+        "category": "This web application was develop using the following technologies: HTML, CSS, JavaScript, AJAX, and API",
+        "image": "JOBer.png",
+        "url": "https://jrgsepulveda.github.io/JOber/"
       },
       {
         "title": "GoogleBooks",
